@@ -8,7 +8,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
-body {
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -547,4 +547,5 @@ button.calculate:hover {
 @-webkit-keyframes moveLeftToRight {
   0%   { left: -100px; }
   100% { left: 100%; }
+
 }
