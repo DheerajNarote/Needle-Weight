@@ -550,8 +550,8 @@ button.calculate:hover {
 
 }
 
- /* Form container */
-        #sheetdb-form {
+        /* Form container */
+#sheetdb-form {
             max-width: 400px;
             margin: 50px auto;
             padding: 20px;
@@ -561,7 +561,7 @@ button.calculate:hover {
         }
 
         /* Form title */
-        #sheetdb-form h3 {
+#sheetdb-form h3 {
             text-align: center;
             color: #333;
             margin-bottom: 20px;
